@@ -9,7 +9,11 @@ Pressing the associate shortcut key or manually accessing the script from the to
 
 **Primary Color -> Secondary Color -> Alpha -> Primary Color...** and so on. Looping.
 
-![DEMO](cspe_demo.mp4)
+
+
+https://github.com/d-mmmy/krita-cspe/assets/44706270/4d5ad872-e501-4db7-bdf2-04c94ddf8f2e
+
+
 
 I made this extension because I am used to having this shortcut as my pen button, and since Krita did not have an equivalent.
 
