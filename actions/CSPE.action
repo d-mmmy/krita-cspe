@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>Custom-made Scripts</text>
+
+        <Action name="CSPE">
+        <icon></icon>
+        <text>CSP Styel X</text>
+        <whatsThis>Clip Studio Style Alpha Color Switching</whatsThis>
+        <toolTip>Clip Studio Style Alpha Color Switching</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>shift+x</shortcut>
+        <isCheckable>true</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>
